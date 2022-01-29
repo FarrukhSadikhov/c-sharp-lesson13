@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\deligate\deligate\bin\Debug\netcoreapp3.1\deligate.exe
+C:\Users\Farrukh\source\repos\deligate\deligate\bin\Debug\netcoreapp3.1\deligate.deps.json
+C:\Users\Farrukh\source\repos\deligate\deligate\bin\Debug\netcoreapp3.1\deligate.runtimeconfig.json
+C:\Users\Farrukh\source\repos\deligate\deligate\bin\Debug\netcoreapp3.1\deligate.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\deligate\deligate\bin\Debug\netcoreapp3.1\deligate.dll
+C:\Users\Farrukh\source\repos\deligate\deligate\bin\Debug\netcoreapp3.1\deligate.pdb
+C:\Users\Farrukh\source\repos\deligate\deligate\obj\Debug\netcoreapp3.1\deligate.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\deligate\deligate\obj\Debug\netcoreapp3.1\deligate.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\deligate\deligate\obj\Debug\netcoreapp3.1\deligate.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\deligate\deligate\obj\Debug\netcoreapp3.1\deligate.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\deligate\deligate\obj\Debug\netcoreapp3.1\deligate.dll
+C:\Users\Farrukh\source\repos\deligate\deligate\obj\Debug\netcoreapp3.1\deligate.pdb
+C:\Users\Farrukh\source\repos\deligate\deligate\obj\Debug\netcoreapp3.1\deligate.genruntimeconfig.cache
